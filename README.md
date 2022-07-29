@@ -6,7 +6,7 @@ Hallo 👋 Ich bin Alex und 17 Jahre alt. In meiner Freizeit helfe ich Kollegen 
 
 Angehender Fachinformatiker Systemintegration
 
-
+<br/><br/>
 
 Hello 👋 I'm Alex and 17 years old. In my free time I help colleagues with their computer problems or deal with topics like Nextjs or React.  You can see my projects at https://git.inexo.at .
 
