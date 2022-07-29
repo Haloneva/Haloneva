@@ -17,7 +17,7 @@ Aspiring IT Specialist System Integration
 <br/>🌱&nbsp;Learning about **Web Development and Flutter**
 <br/>💡&nbsp;I'm interested about **Computers Science, Web Development**
 <br/>💬&nbsp;Ask me about **Docker, Javascript, HTML, CSS, ReactJS, Nextjs**
-<br/>📫&nbsp;Reach me [mail@getalex.info | alex@inexo.at](mailto:mail@getalex.info | alex@inexo.at)
+<br/>📫&nbsp;Reach me (mailto:mail@getalex.info | alex@inexo.at)
 <br/>🖥&nbsp; See my portfolio at [https://inexo.at (WIP)](www.https://inexo.at (WIP))
 
 ## Tech Stack
