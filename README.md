@@ -18,7 +18,7 @@ Aspiring IT Specialist System Integration
 <br/>💡&nbsp;I'm interested about **Computers Science, Web Development**
 <br/>💬&nbsp;Ask me about **Docker, Javascript, HTML, CSS, ReactJS, Nextjs**
 <br/>📫&nbsp;Reach me mail@getalex.info
-<br/>🖥&nbsp; See my portfolio at (https://socials.inexo.at) (WIP)
+<br/>🖥&nbsp; See my Socials at (https://socials.inexo.at) (WIP)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
