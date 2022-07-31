@@ -32,5 +32,5 @@ Aspiring IT Specialist System Integration
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haloneva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haloneva)](https://github.com/anuraghazra/github-readme-stats)
 
