@@ -2,13 +2,13 @@
 <a href="https://twitter.com/haloneva_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
 
 ## 👋 Willkommen auf meinem Profil
-Hallo 👋 Ich bin Alex und 17 Jahre alt. In meiner Freizeit helfe ich Kollegen mit ihren Computerproblemen oder beschäftige mich mit Themen wie Nextjs oder React. Meine Projekte kannst du unter https://git.inexo.at sehen.
+Hallo 👋 Ich bin Alex und 17 Jahre alt. In meiner Freizeit helfe ich Kollegen mit ihren Computerproblemen oder beschäftige mich mit Themen wie Nextjs oder React. 
 
 Angehender Fachinformatiker Systemintegration
 
 <br/><br/>
 
-Hello 👋 I'm Alex and 17 years old. In my free time I help colleagues with their computer problems or deal with topics like Nextjs or React.  You can see my projects at https://git.inexo.at .
+Hello 👋 I'm Alex and 17 years old. In my free time I help colleagues with their computer problems or deal with topics like Nextjs or React. 
 
 Aspiring IT Specialist System Integration
 
