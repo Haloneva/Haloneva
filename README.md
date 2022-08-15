@@ -13,7 +13,7 @@ Hello 👋 I'm Alex and 17 years old. In my free time I help colleagues with the
 Aspiring IT Specialist System Integration
 
 ## About me
-🔭&nbsp;I’m currently working on **https://tiel24.de**
+🔭&nbsp;I’m currently working on **https://tiel24.de** (Project was ended.)
 <br/>🌱&nbsp;Learning about **Web Development and Flutter**
 <br/>💡&nbsp;I'm interested about **Computers Science, Web Development**
 <br/>💬&nbsp;Ask me about **Docker, Javascript, HTML, CSS, ReactJS, Nextjs**
