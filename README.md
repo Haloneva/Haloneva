@@ -1,19 +1,19 @@
-# Histic. | Alex
+# ivyeori
 <a href="https://twitter.com/haloneva_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
 
 ## 👋 Willkommen auf meinem Profil
-Hallo 👋 Ich bin Alex und 17 Jahre alt. In meiner Freizeit helfe ich Kollegen mit ihren Computerproblemen oder beschäftige mich mit Themen wie Nextjs oder React. 
+Hallo 👋 Ich bin Ivy oder Alex und 17 Jahre alt. In meiner Freizeit helfe ich Kollegen mit ihren Computerproblemen oder beschäftige mich mit Themen wie Nextjs oder React. 
 
 Angehender Fachinformatiker Systemintegration
 
 <br/><br/>
 
-Hello 👋 I'm Alex and 17 years old. In my free time I help colleagues with their computer problems or deal with topics like Nextjs or React. 
+Hello 👋 I'm Ivy or just Alex and 17 years old. In my free time I help colleagues with their computer problems or deal with topics like Nextjs or React. 
 
 Aspiring IT Specialist System Integration
 
 ## About me
-🔭&nbsp;I’m currently working on **https://tiel24.de** (Project was ended.)
+🔭&nbsp;I’m currently working on **nothing**
 <br/>🌱&nbsp;Learning about **Web Development and Flutter**
 <br/>💡&nbsp;I'm interested about **Computers Science, Web Development**
 <br/>💬&nbsp;Ask me about **Docker, Javascript, HTML, CSS, ReactJS, Nextjs**
