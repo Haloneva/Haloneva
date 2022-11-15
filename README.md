@@ -8,12 +8,12 @@ I'm Ivy or just Alex and 17 years old. In my free time I help colleagues with th
 Aspiring IT Specialist System Integration
 
 ## About me
-🔭&nbsp;I’m currently working on **nothing**
+🔭&nbsp;I’m currently working on **social stuff**
 <br/>🌱&nbsp;Learning about **Web Development and Flutter**
 <br/>💡&nbsp;I'm interested about **Computers Science, Web Development**
 <br/>💬&nbsp;Ask me about **Docker, Javascript, HTML, CSS, ReactJS, Nextjs**
 <br/>📫&nbsp;Reach me mail@getalex.info
-<br/>🖥&nbsp; See my Socials at (https://links.histic.de) (WIP)
+<br/>🖥&nbsp; See my Socials at (https://links.ivyeory.live) (WIP)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
