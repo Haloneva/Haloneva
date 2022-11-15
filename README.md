@@ -3,7 +3,7 @@
 
 ## 👋 Welcome
 
-Hello 👋 I'm Ivy or just Alex and 17 years old. In my free time I help colleagues with their computer problems or deal with topics like Nextjs or React. 
+I'm Ivy or just Alex and 17 years old. In my free time I help colleagues with their computer problems or deal with topics like Nextjs or React. 
 
 Aspiring IT Specialist System Integration
 
