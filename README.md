@@ -1,5 +1,5 @@
 # ivyeori
-<a href="https://twitter.com/haloneva_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
+<a href="https://twitter.com/ivyeori" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
 
 ## 👋 Welcome
 
